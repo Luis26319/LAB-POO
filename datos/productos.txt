@@ -1,0 +1,9 @@
+1,Manzana,Fruta
+2,Platano,Fruta
+3,Iphone,Tecnologia
+1,Platano,Fruta
+2,Iphone,Tecnologia
+3,Tachones,Deportes
+1,Iphone,Tecnologia 
+2,Jersey,Deporte
+3,Lapices,Escuela
